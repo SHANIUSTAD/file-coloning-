@@ -811,34 +811,25 @@ imtiazak_ua_samsung = 'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; w
 imtiazak_ua_windows = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 
 banner="""\033[1;94m   
-
- Y88b   d88P     d8888  .d8888b. 8888888 888b    888 
-
- Y88b d88P     d88888 d88P  Y88b  888   8888b   888 
-
-  Y88o88P     d88P888 Y88b.       888   88888b  888 
-
-   Y888P     d88P 888  "Y888b.    888   888Y88b 888 
-
-    888     d88P  888     "Y88b.  888   888 Y88b888 
-
-    888    d88P   888       "888  888   888  Y88888 
-
-    888   d8888888888 Y88b  d88P  888   888   Y8888 
-
-    888  d88P     888  "Y8888P" 8888888 888    Y888
-
+  /$$$$$$  /$$   /$$  /$$$$$$  /$$   /$$ /$$$$$$
+ /$$__  $$| $$  | $$ /$$__  $$| $$$ | $$|_  $$_/
+| $$  \__/| $$  | $$| $$  \ $$| $$$$| $$  | $$  
+|  $$$$$$ | $$$$$$$$| $$$$$$$$| $$ $$ $$  | $$  
+ \____  $$| $$__  $$| $$__  $$| $$  $$$$  | $$  
+ /$$  \ $$| $$  | $$| $$  | $$| $$\  $$$  | $$  
+|  $$$$$$/| $$  | $$| $$  | $$| $$ \  $$ /$$$$$$
+ \______/ |__/  |__/|__/  |__/|__/  \__/|______/                                                                                                                                               
 \033[1;37m ｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡
 
-\033[1;94m ⇨AUTHOR    : MUHAMMAD YASIN
+\033[1;94m ⇨AUTHOR    : Zeeshan Altaf
 
-\033[1;95m ⇨WHATSAPP  : +923305867095
+\033[1;95m ⇨WHATSAPP  : +923118066577
 
-\033[1;96m ⇨FACEBOOK  : MUHAMMAD YASIN  (SL MARKH0R)
+\033[1;96m ⇨FACEBOOK  : Zeeshan Altaf
 
-\033[1;93m ⇨INSTA     : DASHING YASIN
+\033[1;93m ⇨INSTA     : zeeshankhan8515
 
-\033[1;91m ⇨VERSION   : 0.1 UPDATE ON 24 April
+\033[1;91m ⇨VERSION   : 0.1 UPDATE ON 28 April
 
 \
 
