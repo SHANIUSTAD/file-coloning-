@@ -1035,7 +1035,7 @@ def ff():
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/+923305867095")
+	os.system("xdg-open https://wa.me/+923118066577")
 
 	time.sleep(3)
 
